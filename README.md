@@ -9,9 +9,9 @@ I always try to learn new technologies and improve my development skills. I enjo
 My goal is to grow as a full-stack developer and work on impactful projects that make users’ lives easier.</p>
 
 # 🌱 Current Activities
-- Started learning TypeScript
 - Currently exploring Next.js
-- Learning modern JavaScript features
+- I’m working on a tourism website.
+- Started learning TypeScript
 
 
 
