@@ -8,8 +8,7 @@ On the backend, I work with Node.js and MongoDB to build secure and scalable app
 I always try to learn new technologies and improve my development skills. I enjoy working both in a team and independently, and I love building real-world projects that solve practical problems.
 My goal is to grow as a full-stack developer and work on impactful projects that make users’ lives easier.</p>
 
-# 🌱 Currently Learning
-
+# 🌱 Current Activities
 - Started learning TypeScript
 - Currently exploring Next.js
 - Learning modern JavaScript features
