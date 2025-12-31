@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/f5cf402bb956289ba93f2d21fcb490bd68deb700ee2ed27572f77ccf484e9ec9/68747470733a2f2f692e6962622e636f2f363857377751662f5745422d444556454c4f5045522d322e676966" alt="" />
 
-<p class="text-center"> Hi This is Siam Ahamed</p>
+<p aling="center"> Hi,👋 This is Siam Ahamed</p>
 
 
 **ahamedsiammia/ahamedsiammia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
