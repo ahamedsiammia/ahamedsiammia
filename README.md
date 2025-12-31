@@ -14,7 +14,5 @@ My goal is to grow as a full-stack developer and work on impactful projects that
 - Started learning TypeScript
 
 # My Skils 
-### Frontend 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,)](https://skillicons.dev"  />
  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,express,mongodb,)](https://skillicons.dev" /> 
 
