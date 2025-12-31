@@ -18,11 +18,13 @@ My goal is to grow as a full-stack developer and work on impactful projects that
 
  # Social Links
 <p>
+ <p>
   <a href="https://github.com/ahamedsiammia"   /> 
  <img src="https://skillicons.dev/icons?i=github,)](https://skillicons.dev" />
 </p>
 <p>
   <a href="https://www.linkedin.com/in/siam-ahamed-b48ab1352/"   /> 
  <img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev" />
+</p>
 </p>
 
