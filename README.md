@@ -28,6 +28,5 @@ My goal is to grow as a full-stack developer and work on impactful projects that
 
 </p>
 
-(https://api.vaunt.dev/v1/github/entities/sdf/contributions?format=svg&private=false) 
 
 
