@@ -4,11 +4,8 @@
 
 <h1>About me</h1>
 <p>I am a passionate MERN Stack Developer who builds user-friendly and responsive web applications. I mainly use React.js and Tailwind CSS to create clean, modern, and responsive user interfaces.
-
 On the backend, I work with Node.js and MongoDB to build secure and scalable applications. I enjoy turning ideas into real products and focusing on performance, usability, and clean code.
-
 I always try to learn new technologies and improve my development skills. I enjoy working both in a team and independently, and I love building real-world projects that solve practical problems.
-
 My goal is to grow as a full-stack developer and work on impactful projects that make users’ lives easier.</p>
 
 
