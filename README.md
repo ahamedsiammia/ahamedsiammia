@@ -28,3 +28,5 @@ My goal is to grow as a full-stack developer and work on impactful projects that
 
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=sdf&show_icons=true" />
+
