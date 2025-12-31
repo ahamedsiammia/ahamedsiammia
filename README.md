@@ -13,5 +13,6 @@ My goal is to grow as a full-stack developer and work on impactful projects that
 - I’m working on a tourism website.
 - Started learning TypeScript
 
-
+# My Skils 
+<img src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev" />
 
