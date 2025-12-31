@@ -15,5 +15,5 @@ My goal is to grow as a full-stack developer and work on impactful projects that
 
 # My Skils 
 
-<img src="https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev" />
 
