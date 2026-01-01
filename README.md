@@ -31,12 +31,16 @@ My goal is to grow as a full-stack developer and work on impactful projects that
 
 # 📫 Let's Connect!
 
-📍 Location: Mymensingh, Bangladesh
+-📍 Location: Mymensingh, Bangladesh
 
-📧 Email: md7559263@gmail.com
+-📧 Email: md7559263@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/siam-ahamed
+-💼 LinkedIn: https://www.linkedin.com/in/siam-ahamed
 
-📱 WhatsApp: +880 1862754769
+-📱 WhatsApp: +880 1862754769
+
+# 🤝 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/siam-ahamed
+- 🚀 GitHub:  https://github.com/ahamedsiammia
 
 
