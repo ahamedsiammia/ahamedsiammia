@@ -39,16 +39,17 @@ My goal is to grow as a full-stack developer and work on impactful projects that
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
- # Social Links
-<p>
- 
-  <a href="https://github.com/ahamedsiammia"   /> 
- <img src="https://skillicons.dev/icons?i=github,)](https://skillicons.dev" />
-
-
-  <a href="https://www.linkedin.com/in/siam-ahamed-b48ab1352/"   /> 
- <img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev" />
-
+### 🌐 Social Links
+<p align="left">
+  <a href="https://github.com/ahamedsiammia" target="_blank">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/farhan.ahamed.siam.2024" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/siam-ahamed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 
