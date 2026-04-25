@@ -45,4 +45,22 @@ My goal is to grow as a full-stack developer and work on impactful projects that
 - 💼 LinkedIn: https://www.linkedin.com/in/siam-ahamed
 - 🚀 GitHub:  https://github.com/ahamedsiammia
 
+<h2 align="left ">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" vertical-align="middle" /> 
+  <span> GitHub Stats</span>
+</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahamedsiammia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedsiammia&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedsiammia&theme=tokyonight&hide_border=false" />
+</p>
+
+
+
+
+
 
