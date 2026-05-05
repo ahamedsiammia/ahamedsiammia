@@ -1,6 +1,8 @@
 <img src="https://camo.githubusercontent.com/f5cf402bb956289ba93f2d21fcb490bd68deb700ee2ed27572f77ccf484e9ec9/68747470733a2f2f692e6962622e636f2f363857377751662f5745422d444556454c4f5045522d322e676966" alt="" />
+<h1 align="center">Hi 👋 This is Siam Ahamed</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+This+is+Siam+Ahamed;I+am+a+MERN+Stack+Developer;Frontend+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=I+am+a+MERN+Stack+Developer;Frontend+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <h1> 👤 About me</h1>
