@@ -2,19 +2,19 @@
 <h1 align="center">Hi 👋 This is Siam Ahamed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=I+am+a+MERN+Stack+Developer;Frontend+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=I+am+a+Full+Stack+Developer;Web+Designer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <h1> 👤 About me</h1>
-<p>I am a passionate MERN Stack Developer who builds user-friendly and responsive web applications. I mainly use React.js and Tailwind CSS to create clean, modern, and responsive user interfaces.
-On the backend, I work with Node.js and MongoDB to build secure and scalable applications. I enjoy turning ideas into real products and focusing on performance, usability, and clean code.
-I always try to learn new technologies and improve my development skills. I enjoy working both in a team and independently, and I love building real-world projects that solve practical problems.
-My goal is to grow as a full-stack developer and work on impactful projects that make users’ lives easier.</p>
+<p>🚀 Full-Stack Developer passionate about building scalable,user-friendly,and high-perfomance web applications.
+  Started my journey as a Frontend Developer,building modern and responsive interfaces with React.js and Tailwind CSS.Currently expanding my expertise into Full-Stack Development with Node.js MongoDB,PostgreSQL,Prisma,and TypeScript.
+  
+  I enjoy turning ideas into real products,witing clean and maintainable code, and solving real-world problems through technology. i'm continously learning,improving my skills,and exploring new technologies to become a better developer every dya.</p>
 
 # 🌱 Current Activities
 - Currently exploring Next.js
-- I’m working on a tourism website.
-- Started learning TypeScript
+- I’m working on a Libary Management  website.
+
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="35" /> Skills
 
@@ -22,9 +22,10 @@ My goal is to grow as a full-stack developer and work on impactful projects that
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
@@ -33,6 +34,9 @@ My goal is to grow as a full-stack developer and work on impactful projects that
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neondb&logoColor=black" />
 </p>
 
 ### 🧰 Tools & Technologies
@@ -41,6 +45,8 @@ My goal is to grow as a full-stack developer and work on impactful projects that
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beekeeper_Studio-F5C542?style=for-the-badge&logo=beekeeper-studio&logoColor=black" />
 </p>
 
 ### 🌐 Social Links
