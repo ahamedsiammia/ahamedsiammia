@@ -79,18 +79,36 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/siam-ahamed
 - 🚀 GitHub:  https://github.com/ahamedsiammia
 
-<h2 align="left ">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" vertical-align="middle" /> 
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />
   <span> GitHub Stats</span>
 </h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahamedsiammia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedsiammia&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahamedsiammia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamedsiammia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedsiammia&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedsiammia&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Trophy.png" width="30" />
+  <span> GitHub Trophies</span>
+</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahamedsiammia&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1" />
+</p>
+
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Chart%20Increasing.png" width="30" />
+  <span> Contribution Graph</span>
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahamedsiammia&theme=tokyo-night&hide_border=true" />
 </p>
 
 
