@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 This is Siam Ahamed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=I+am+a+Full+Stack+Developer;Web+Designer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=I+am+a+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Web+Designer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <h1> 👤 About me</h1>
@@ -49,7 +49,10 @@
   <img src="https://img.shields.io/badge/Beekeeper_Studio-F5C542?style=for-the-badge&logo=beekeeper-studio&logoColor=black" />
 </p>
 
-### 🌐 Social Links
+
+
+
+### 🌐 Follow Me On Social
 <p align="left">
   <a href="https://github.com/ahamedsiammia" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
