@@ -5,18 +5,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=I+am+a+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Web+Designer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-<h1> 👤 About me</h1>
-<p>🚀 Full-Stack Developer passionate about building scalable,user-friendly,and high-perfomance web applications.
-  Started my journey as a Frontend Developer,building modern and responsive interfaces with React.js and Tailwind CSS.Currently expanding my expertise into Full-Stack Development with Node.js MongoDB,PostgreSQL,Prisma,and TypeScript.
-  
-  I enjoy turning ideas into real products,witing clean and maintainable code, and solving real-world problems through technology. i'm continously learning,improving my skills,and exploring new technologies to become a better developer every dya.</p>
+<p align="center">
+  <a href="https://cosmic-pegasus-53f0d7.netlify.app" target="_blank"><b>🚀 Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/siam-ahamed/" target="_blank"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:md7559263@gmail.com"><b>📧 Email</b></a>
+</p>
 
-# 🌱 Current Activities
-- Currently exploring Next.js
-- I’m working on a Libary Management  website.
+## 👤 About Me
+ 
+🚀 Full-Stack Developer passionate about building scalable, user-friendly, and high-performance web applications.
+ 
+I started my journey as a **Frontend Developer**, crafting modern and responsive interfaces with **React.js** and **Tailwind CSS**. I'm now expanding into **Full-Stack Development** with **Node.js**, **MongoDB**, **PostgreSQL**, **Prisma**, and **TypeScript**.
+ 
+I enjoy turning ideas into real products, writing clean and maintainable code, and solving real-world problems through technology. I'm continuously learning, improving my skills, and exploring new technologies to become a better developer every day.
+
+## 🌱 Currently
+ 
+- 🔭 Exploring **Next.js** in depth
+- 📚 Building a **Library Management** website
+- 🌱 Learning to write cleaner, more scalable backend architecture
+---
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="35" /> Skills
+## 🛠️ Skills & Tech Stack
 
 ### 🎨 Frontend
 <p align="left">
@@ -66,21 +77,29 @@
 </p>
 
 
-# 📫 Let's Connect!
+## 📫 Let's Connect
 
--📍 Location: Mymensingh, Bangladesh
+<p align="left">
+  <a href="https://github.com/ahamedsiammia" target="_blank">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/siam-ahamed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/farhan.ahamed.siam.2024" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:md7559263@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
--🚀 Portfolio : https://cosmic-pegasus-53f0d7.netlify.app
 
--📧 Email: md7559263@gmail.com
 
--💼 LinkedIn: https://www.linkedin.com/in/siam-ahamed
+📍 **Location:** Mymensingh, Bangladesh
+📱 **WhatsApp:** +880 1862754769
 
--📱 WhatsApp: +880 1862754769
-
-# 🤝 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/siam-ahamed
-- 🚀 GitHub:  https://github.com/ahamedsiammia
+---
 
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />
@@ -110,3 +129,7 @@
 </p>
 
 
+
+<div align="center">
+<sub>Thanks for visiting my profile! ⭐ Feel free to check out my repositories and connect with me.</sub>
+</div>
