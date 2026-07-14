@@ -124,12 +124,11 @@ I enjoy turning ideas into real products, writing clean and maintainable code, a
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahamedsiammia&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahamedsiammia&theme=react-dark&hide_border=true&area=true)
 
 
 
 <div align="center">
 <sub>Thanks for visiting my profile! ⭐ Feel free to check out my repositories and connect with me.</sub>
 </div>
+
