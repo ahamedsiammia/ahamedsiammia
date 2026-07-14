@@ -100,6 +100,15 @@ I enjoy turning ideas into real products, writing clean and maintainable code, a
 📱 **WhatsApp:** +880 1862754769
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahamedsiammia/ahamedsiammia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahamedsiammia/ahamedsiammia/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahamedsiammia/ahamedsiammia/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />
