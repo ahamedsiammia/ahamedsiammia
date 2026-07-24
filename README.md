@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cosmic-pegasus-53f0d7.netlify.app" target="_blank"><b>🚀 Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://siamahamed.netlify.app/" target="_blank"><b>🚀 Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/siam-ahamed/" target="_blank"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:md7559263@gmail.com"><b>📧 Email</b></a>
 </p>
