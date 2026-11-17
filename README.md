@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/0RBXfFmS/linkdin-baner.png" alt="" />
+<img src="https://res.cloudinary.com/sgaywbg7/image/upload/v1794912843/linkdin_baner.png" alt="" />
 <h1 align="center">Hi 👋 This is Siam Ahamed</h1>
 
 <p align="center">
